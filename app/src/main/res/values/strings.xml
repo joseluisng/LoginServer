@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginServer</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="password_login">Contraseña</string>
+    <string name="email_login">Email</string>
+    <string name="text_button_login">Iniciar sesión</string>
+    <string name="nombre_register">Nombre</string>
+    <string name="email_registro">Email</string>
+</resources>
